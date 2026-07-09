@@ -43,9 +43,7 @@ javac HelloWorld.java
 java HelloWorld
 ```
 
-> Make sure Java is installed — check with `java --version`
 
----
 
 ## 🎯 What I Learned
 

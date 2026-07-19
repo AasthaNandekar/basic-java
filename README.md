@@ -4,7 +4,7 @@ A collection of Java programs I wrote while learning the fundamentals of Java pr
 
 ---
 
-## 📚 Topics Covered
+# 📚 Topics Covered
 
 - **Basics** — variables, data types, operators, input/output
 - **Control Flow** — if-else, switch, ternary operator

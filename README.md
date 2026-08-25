@@ -1,4 +1,4 @@
-# ☕ Basic Java
+## ☕ Basic Java
 
 A collection of Java programs I wrote while learning the fundamentals of Java programming. This repo covers everything from basic syntax to object-oriented programming concepts.
 
